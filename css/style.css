@@ -45,6 +45,13 @@
 .position{
 	position:relative;
 }
+.p1{
+	position:absolute;
+	bottom:30px;
+	left:20px;
+	color:#fff;
+	font-size:25pt;
+}
 .logo2{
 	position:absolute;
 	bottom:30px;
