@@ -59,6 +59,7 @@
 	background-color:#fff;
 	width:570px;
 	height:320px;
+	text-align:center;
 }
 .blue{
 	display:flex;
@@ -118,4 +119,8 @@
 }
 .web2{
 	margin-bottom:15px;
+}
+.video{
+	width:420px;
+	height:280px;
 }
